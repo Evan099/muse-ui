@@ -1,0 +1,25 @@
+/* *{margin: 0 auto;} */
+
+/* 公共 */
+.muse-row .mui-btn{margin-left: 55px;}
+
+/* 按钮 */
+.mui-btn{padding: 10px 20px;border: none;outline: none;cursor: pointer;background: white;color: #606266;border:solid 1px #DCDFE6;transition: 0.5s;}
+.mui-btn-blue{background: #409EFF;color: white;border:solid 1px #409EFF;}
+.mui-btn-green{background: #67C23A;color: white;border:solid 1px #67C23A;}
+.mui-btn-gray{background: #909399;color: white;border:solid 1px #909399;}
+.mui-btn-red{background: #F56C6C;color: white;border:solid 1px #F56C6C;}
+.mui-btn-yellow{background: #E6A23C;color: white;border:solid 1px #E6A23C;}
+
+.mui-btn:hover{background: #D1E4F7;color: #409EFF;border:solid 1px #CBE3FC;}
+.mui-btn-blue:hover{background: #70B6FD;color: white;border:solid 1px #70B6FD;}
+.mui-btn-green:hover{background: #84C962;color: white;border:solid 1px #84C962;}
+.mui-btn-gray:hover{background: #AEB2BA;color: white;border:solid 1px #AEB2BA;}
+.mui-btn-red:hover{background: #F09494;color: white;border:solid 1px #F09494;}
+.mui-btn-yellow:hover{background: #E5B978;color: white;border:solid 1px #E5B978;}
+.round{border-radius: 25px;}
+.disabled{cursor: not-allowed;opacity: 0.7;}
+
+.mui-btn-medium{padding: 8px 16px;}
+.mui-btn-small{padding: 6px 12px;}
+.mui-btn-mini{padding: 4px 8px;}
